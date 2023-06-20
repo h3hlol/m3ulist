@@ -32,5 +32,5 @@ https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="HRFernsehen.de" group-title="Regional",hr-fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 tvg-id="ntv" group-title="Nachrichteb",n-tv
+#EXTINF:-1 tvg-id="ntv" group-title="Nachrichten" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n-tv-de.svg",n-tv
 http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8
