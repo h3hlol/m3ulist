@@ -27,7 +27,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 #EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Regional",MDR 
-https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
